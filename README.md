@@ -1,4 +1,4 @@
-# KlinikGO Patient Registration System
+# KlinikGo Patient Registration System
 
 Welcome to the final project repository for the project-based internship as a System Analyst at KlinikGo, organized by Rakamin Academy. This repository contains the documentation and diagrams for the patient registration system developed during the internship. The project focuses on enhancing the patient registration process at KlinikGo, a digital healthcare platform.
 
